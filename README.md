@@ -1,2 +1,2 @@
 # termial_game
-# First Codecademy portfolio project, Yahtzee!
+First Codecademy portfolio project, Yahtzee!
